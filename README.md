@@ -1,2 +1,4 @@
 # hello-world
 first repository
+
+this is the place where i'm supposed to write about myself, blablabla
